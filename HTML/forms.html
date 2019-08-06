@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <form>
+      <h3>Log In</h3>
+      <p>Please Input your email and Password</p>
+      <input type="email" name="useremail" value="Email here" />
+      <input type="password" name="password" value="" />
+      <input type="submit" name="" value="Submit" />
+    </form>
+    <form>
+      <h3>Choose Color!</h3>
+      <p>Click on Button!</p>
+      <input type="color" />
+      <input type="submit" value="Choose" />
+    </form>
+    <form action="https://facebook.com">
+      <p>After submitting text, the form will perform an action:</p>
+      <input type="text" name="" value="Text here ..." />
+      <input type="submit" name="" value="Go to" />
+    </form>
+    <form action="">
+      <h3>Form with Label</h3>
+      <label for="">
+        Enter email:
+        <input type="email" placeholder="example@mail.com" />
+      </label>
+      <!-- Better way to use labels-->
+      <label for="user-name">Enter name:</label>
+      <input type="text" placeholder="John" id="user-name" required />
+      <input type="submit" name="" id="" value="Submit" />
+    </form>
+    <!-- Real life sample -->
+    <div>
+      <h1>Hotel Feedback form</h1>
+      <form method="get">
+        <h3>Are you from inside Europe? Or outside Europe?</h3>
+
+        <label for="in-eu">Inside: </label>
+        <input type="radio" name="loc" id="in-eu" value="inside" />
+
+        <label for="out-eu">Outside: </label>
+        <input type="radio" name="loc" id="out-eu" value="outside" />
+
+        <h3>How was the service?</h3>
+
+        <select name="starts" id="">
+          <option value="Great">3</option>
+          <option value="Good">2</option>
+          <option value="Bad">1</option>
+        </select>
+
+        <h3>Any other feedback?</h3>
+        <textarea name="my-feedback" id="" cols="40" rows="6"></textarea>
+        <input type="submit" name="" value="SUBMIT" />
+      </form>
+    </div>
+  </body>
+</html>
