@@ -20,3 +20,7 @@ Folder with scripts, quiez and assessments created while learning the course
 
 - Basic tables
 - Field attributes
+
+**_forms.html_**
+
+- Forms, labels, selections
