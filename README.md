@@ -6,21 +6,35 @@ Collection of scripts, codes, assessment, capstones projects
 
 Folder with scripts, quiez and assessments created while learning the course
 
-**_basics.html_**
+```
+basics.html
 
-**_basics_click.html_**
+basics_click.html
 
-**_assessment_1.html_**
+assessment_1.html
 
 - Basic Tagging, lists, divs and spans and attibutes
+```
 
-**_tables.html_**
+```
+tables.html
 
-**_tables_quiz.html_**
+tables_quiz.html
 
 - Basic tables
 - Field attributes
+```
 
+```
 **_forms.html_**
 
 - Forms, labels, selections
+```
+
+```
+**_assessment_2.html_**
+
+**_assessment_2_thanks_**
+
+- Basic Sign Up page with a Thank You response
+```
