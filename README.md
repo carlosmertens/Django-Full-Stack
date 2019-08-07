@@ -58,3 +58,9 @@ assessment_1_style.css
 
 - Text, border, background, visited link
 ```
+
+```
+fonts.html
+fonts_sytle.css
+- Link and use fonts from fonts.google.com
+```
