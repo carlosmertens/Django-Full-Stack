@@ -4,7 +4,7 @@ Collection of scripts, codes, assessment, capstones projects
 
 ## HTML
 
-Folder with scripts, quiez and assessments created while learning the course
+Folder with scripts, quizes and assessments created while learning the course
 
 ```
 basics.html
@@ -37,4 +37,17 @@ tables_quiz.html
 **_assessment_2_thanks_**
 
 - Basic Sign Up page with a Thank You response
+```
+
+## CSS
+
+Folder with scripts, quizes and assessments created while learning the course
+
+```
+basic_css.html
+basic_css_style.css
+
+- Basic text, borders, background
+- Image background
+- Colors
 ```
