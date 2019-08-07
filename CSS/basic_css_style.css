@@ -1,0 +1,100 @@
+/* Basic CSS 
+
+selected tag {
+    property: value;
+}
+
+*/
+
+/* --------------- */
+/* PART 1 */
+/* --------------- */
+
+h1 {
+  color: red;
+}
+
+p {
+  color: #14f314;
+}
+
+li {
+  color: rgb(239, 107, 40);
+}
+
+h4 {
+  color: rgba(54, 36, 27, 0.6);
+}
+
+/* --------------- */
+/* PART 2 */
+/* --------------- */
+
+body {
+  background: url(http://static.asiawebdirect.com/m/.imaging/768x512/website/phuket/portals/phuket-com/homepage/yourguide/romantic/beaches/pagePropertiesImage.jpg);
+  background-repeat: no-repeat;
+}
+
+div {
+  background-color: antiquewhite;
+  border-color: blueviolet;
+  border-width: 3px;
+  border-style: dashed;
+}
+
+span {
+  background: #ecb6ea;
+  color: rgb(58, 123, 245);
+}
+
+/* --------------- */
+/* PART 3 */
+/* --------------- */
+
+.firstDiv {
+  background-color: aliceblue;
+}
+
+.firstDiv p {
+  color: black;
+}
+
+.secondDiv {
+  background-color: rgb(133, 118, 151);
+}
+
+#singledout {
+  color: #0e94b6;
+  text-decoration: line-through;
+}
+
+h4 + ul {
+  border: 4px dotted gray;
+}
+
+li a {
+  color: darkgreen;
+}
+
+li a[href="www.npr.org"] {
+  color: greenyellow;
+  border: 5px solid olivedrab;
+}
+
+/* --------------- */
+/* PART 4 */
+/* Use Google Inspect */
+/* --------------- */
+
+/* --------------- */
+/* PART 5 */
+/* --------------- */
+
+.top-items {
+  color: blue;
+}
+
+#two {
+  color: aqua;
+  border: 2px solid black;
+}
