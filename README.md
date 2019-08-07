@@ -8,9 +8,7 @@ Folder with scripts, quizes and assessments created while learning the course
 
 ```
 basics.html
-
 basics_click.html
-
 assessment_1.html
 
 - Basic Tagging, lists, divs and spans and attibutes
@@ -18,7 +16,6 @@ assessment_1.html
 
 ```
 tables.html
-
 tables_quiz.html
 
 - Basic tables
@@ -26,15 +23,14 @@ tables_quiz.html
 ```
 
 ```
-**_forms.html_**
+forms.html
 
 - Forms, labels, selections
 ```
 
 ```
-**_assessment_2.html_**
-
-**_assessment_2_thanks_**
+assessment_2.html
+assessment_2_thanks
 
 - Basic Sign Up page with a Thank You response
 ```
@@ -62,5 +58,13 @@ assessment_1_style.css
 ```
 fonts.html
 fonts_sytle.css
+
 - Link and use fonts from fonts.google.com
+```
+
+```
+box_model.html
+box_model_style.css
+
+- Boxing content using IDs
 ```
