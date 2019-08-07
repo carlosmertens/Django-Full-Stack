@@ -68,3 +68,11 @@ box_model_style.css
 
 - Boxing content using IDs
 ```
+
+```
+spectrum.html
+spectrum_style.css
+
+- Mini project
+- Inspired by Spectrum V by Ellsworth Kelly
+```
