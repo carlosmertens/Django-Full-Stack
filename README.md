@@ -51,3 +51,10 @@ basic_css_style.css
 - Image background
 - Colors
 ```
+
+```
+assessment_1.html
+assessment_1_style.css
+
+- Text, border, background, visited link
+```
