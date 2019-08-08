@@ -76,3 +76,9 @@ spectrum_style.css
 - Mini project
 - Inspired by Spectrum V by Ellsworth Kelly
 ```
+
+## Capstone Project
+
+Basic styled landing page project
+
+https://github.com/carlosmertens/Landing-Page
