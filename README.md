@@ -79,17 +79,24 @@ spectrum_style.css
 
 ## Capstone Project
 
-Basic styled landing page project
+Basic styled landing page project. Check folder "Basic-Landing-Page":
 
 https://github.com/carlosmertens/Landing-Page
 
 ## Bootstrap
 
-Folder with scripts showing how to use Bootstrap 4
+Folder with scripts and project showing how to use Bootstrap 4
 
 ```
 buttons.html
 forms.html
 navbars.html
 grids.html
+```
+
+```
+Project: Coffee Lover
+Check folder "Bootstrap-Coffee-Lover"
+
+https://github.com/carlosmertens/Landing-Page
 ```
