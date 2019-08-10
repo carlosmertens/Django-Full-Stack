@@ -96,7 +96,18 @@ grids.html
 
 ```
 Project: Coffee Lover
-Check folder "Bootstrap-Coffee-Lover"
 
-https://github.com/carlosmertens/Landing-Page
+- Check folder "Bootstrap-Coffee-Lover"
+- https://github.com/carlosmertens/Landing-Page
+```
+
+## JS
+
+Folder with scripts, exercise and project showing basic JavaScript
+
+```
+basic_JS.html
+basic_JS.js
+
+- Print message, create varibles and display console.log messages
 ```
