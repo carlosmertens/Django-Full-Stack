@@ -111,3 +111,11 @@ basic_JS.js
 
 - Print message, create varibles and display console.log messages
 ```
+
+```
+exercise1.html
+exercise1.js
+
+- Load page and get x amount of pounds from user and then convert it in kilograms
+- Log convertion
+```
