@@ -7,19 +7,15 @@ Collection of scripts, codes, assessment, capstones projects
 Folder with scripts, quizes and assessments created while learning the course
 
 ```
-basics.html
-basics_click.html
-assessment_1.html
+basics.html, basics_click.html and assessment_1.html
 
 - Basic Tagging, lists, divs and spans and attibutes
 ```
 
 ```
-tables.html
-tables_quiz.html
+tables.html & tables_quiz.html
 
-- Basic tables
-- Field attributes
+- Basic tables and its field attributes
 ```
 
 ```
@@ -29,8 +25,7 @@ forms.html
 ```
 
 ```
-assessment_2.html
-assessment_2_thanks
+assessment_2.html & assessment_2_thanks
 
 - Basic Sign Up page with a Thank You response
 ```
@@ -40,38 +35,32 @@ assessment_2_thanks
 Folder with scripts, quizes and assessments created while learning the course
 
 ```
-basic_css.html
-basic_css_style.css
+basic_css.html & basic_css_style.css
 
-- Basic text, borders, background
+- Basic text, borders, background, colors
 - Image background
-- Colors
 ```
 
 ```
-assessment_1.html
-assessment_1_style.css
+assessment_1.html & assessment_1_style.css
 
 - Text, border, background, visited link
 ```
 
 ```
-fonts.html
-fonts_sytle.css
+fonts.html & fonts_sytle.css
 
 - Link and use fonts from fonts.google.com
 ```
 
 ```
-box_model.html
-box_model_style.css
+box_model.html & box_model_style.css
 
 - Boxing content using IDs
 ```
 
 ```
-spectrum.html
-spectrum_style.css
+spectrum.html & spectrum_style.css
 
 - Mini project
 - Inspired by Spectrum V by Ellsworth Kelly
@@ -88,10 +77,7 @@ https://github.com/carlosmertens/Landing-Page
 Folder with scripts and project showing how to use Bootstrap 4
 
 ```
-buttons.html
-forms.html
-navbars.html
-grids.html
+buttons.html, forms.html, navbars.html & grids.html
 ```
 
 ```
@@ -106,16 +92,32 @@ Project: Coffee Lover
 Folder with scripts, exercise and project showing basic JavaScript
 
 ```
-basic_JS.html
-basic_JS.js
+basic_JS.html & basic_JS.js
 
 - Print message, create varibles and display console.log messages
 ```
 
 ```
-exercise1.html
-exercise1.js
+exercise1.html & exercise1.js
 
-- Load page and get x amount of pounds from user and then convert it in kilograms
-- Log convertion
+- Load page and get x amount of pounds from user and then convert it in kilograms and log convertion
+```
+
+```
+control_flow.html & control_flow.js
+
+- Demostrate if, if else and else contitions
+```
+
+```
+loops.html & loops.js
+
+- Demostrate while loops conditions
+- Demostrate for loops (for, for/in and for/of)
+```
+
+```
+exercise2.html & exercise2.js
+
+- Exercise loops with some quizes
 ```
