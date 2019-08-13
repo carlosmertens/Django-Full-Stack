@@ -121,3 +121,15 @@ exercise2.html & exercise2.js
 
 - Exercise loops with some quizes
 ```
+
+```
+project_spy.html & project_spy.js
+
+- Website checks if the visitor is a spy or not
+```
+
+```
+functions.html & functions.js
+
+- Demostrate basic functions
+```
