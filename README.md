@@ -133,3 +133,9 @@ functions.html & functions.js
 
 - Demostrate basic functions
 ```
+
+```
+exercise_functions.html & exercise_functions.js
+
+- Exercise and quizes from codingbat.com
+```
