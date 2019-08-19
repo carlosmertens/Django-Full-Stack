@@ -146,3 +146,9 @@ exercise_array.html & exercise_array.js
 - Create a web app that works with roster
 - Add, remove, display actions
 ```
+
+```
+exercise_object.html & exercise_object.js
+
+- Exercises and quized to show objects methods
+```
