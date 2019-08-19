@@ -139,3 +139,10 @@ exercise_functions.html & exercise_functions.js
 
 - Exercise and quizes from codingbat.com
 ```
+
+```
+exercise_array.html & exercise_array.js
+
+- Create a web app that works with roster
+- Add, remove, display actions
+```
