@@ -152,3 +152,19 @@ exercise_object.html & exercise_object.js
 
 - Exercises and quized to show objects methods
 ```
+
+## DOM
+
+Folder with scripts, exercise and project showing basic Document Object Model (DOM)
+
+```
+basic_DOM.html & basic_DOM.js
+
+- Demostrate basic interactions between html, JavaScript and DOM
+```
+
+```
+content.html & content.js
+
+- Demostrate how to change content with DOM
+```
