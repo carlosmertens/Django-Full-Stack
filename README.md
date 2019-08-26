@@ -168,3 +168,9 @@ content.html & content.js
 
 - Demostrate how to change content with DOM
 ```
+
+```
+event_listener.html & event_listener.js
+
+- Demostrate how to use Event Listener with DOM
+```
