@@ -174,3 +174,12 @@ event_listener.html & event_listener.js
 
 - Demostrate how to use Event Listener with DOM
 ```
+
+```
+tic_tac_toe.html, tic_tac_toe_style.css & tic_tac_toe.js
+
+Project:
+- Tic Tac Toe Game
+- Demostrate how to manipulate and interact using DOM
+- Simply select pick in the cells but does not declare winner
+```
