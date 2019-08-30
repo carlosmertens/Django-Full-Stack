@@ -24,6 +24,8 @@ forms.html
 - Forms, labels, selections
 ```
 
+### Assessment
+
 ```
 assessment_2.html & assessment_2_thanks
 
@@ -40,6 +42,8 @@ basic_css.html & basic_css_style.css
 - Basic text, borders, background, colors
 - Image background
 ```
+
+### Assessment
 
 ```
 assessment_1.html & assessment_1_style.css
@@ -59,6 +63,8 @@ box_model.html & box_model_style.css
 - Boxing content using IDs
 ```
 
+### Mini Project
+
 ```
 spectrum.html & spectrum_style.css
 
@@ -70,7 +76,9 @@ spectrum.html & spectrum_style.css
 
 Basic styled landing page project. Check folder "Basic-Landing-Page":
 
+```
 https://github.com/carlosmertens/Landing-Page
+```
 
 ## Bootstrap
 
@@ -79,6 +87,8 @@ Folder with scripts and project showing how to use Bootstrap 4
 ```
 buttons.html, forms.html, navbars.html & grids.html
 ```
+
+### Project
 
 ```
 Project: Coffee Lover
@@ -96,6 +106,8 @@ basic_JS.html & basic_JS.js
 
 - Print message, create varibles and display console.log messages
 ```
+
+### Excersices
 
 ```
 exercise1.html & exercise1.js
@@ -116,11 +128,15 @@ loops.html & loops.js
 - Demostrate for loops (for, for/in and for/of)
 ```
 
+### Excersices
+
 ```
 exercise2.html & exercise2.js
 
 - Exercise loops with some quizes
 ```
+
+### Project
 
 ```
 project_spy.html & project_spy.js
@@ -133,6 +149,8 @@ functions.html & functions.js
 
 - Demostrate basic functions
 ```
+
+### Excersices
 
 ```
 exercise_functions.html & exercise_functions.js
@@ -164,22 +182,38 @@ basic_DOM.html & basic_DOM.js
 ```
 
 ```
-content.html & content.js
+content.html &and content.js
 
 - Demostrate how to change content with DOM
 ```
 
 ```
-event_listener.html & event_listener.js
+event_listener.html and event_listener.js
 
 - Demostrate how to use Event Listener with DOM
 ```
 
-```
-tic_tac_toe.html, tic_tac_toe_style.css & tic_tac_toe.js
+### Project: Tic Tac Toe Game
 
-Project:
+tic_tac_toe.html, tic_tac_toe_style.css and tic_tac_toe.js
+
 - Tic Tac Toe Game
 - Demostrate how to manipulate and interact using DOM
 - Simply select pick in the cells but does not declare winner
+
+## jQuery
+
+Folder with scripts, exercise and project showing basic jQuery
+
 ```
+basic_jQuery.html, basic_jQuery.js and content_jQuery.js
+
+- Basic jQuery demostration (action on click, double click, animations, etc)
+```
+
+### Project: Connect 4 Game
+
+connect4_game.html, connect4_game.js
+
+- Connect Four Game Project
+- Demostrate heavely use of jQuery
