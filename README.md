@@ -224,5 +224,7 @@ connect4_game.html, connect4_game.js
 Folder with scripts, exercise and project showing beginning skils for Python: Numbers, Strings, Lists, Dictionaries, Tuples, Sets, Booleans, Control Flows, Functions
 
 ```
-
+number_Strings.py
+- Numbers: Integers and floats
+- Strings: Indexing, slicing, basic methods and string formatting
 ```
