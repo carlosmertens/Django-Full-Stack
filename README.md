@@ -1,8 +1,12 @@
-# Python and Django Full Stack Web Developer Bootcamp
+# **PYTHON AND DJANGO**
+
+# **FULL STACK WEB DEVELOPER BOOTCAMP**
+
+## **Part 1: Front-End Development**
 
 Collection of scripts, codes, assessment, capstones projects
 
-## HTML
+### **HTML Folder**
 
 Folder with scripts, quizes and assessments created while learning the course
 
@@ -24,15 +28,13 @@ forms.html
 - Forms, labels, selections
 ```
 
-### Assessment
-
 ```
 assessment_2.html & assessment_2_thanks
 
 - Basic Sign Up page with a Thank You response
 ```
 
-## CSS
+### **CSS Folder**
 
 Folder with scripts, quizes and assessments created while learning the course
 
@@ -42,8 +44,6 @@ basic_css.html & basic_css_style.css
 - Basic text, borders, background, colors
 - Image background
 ```
-
-### Assessment
 
 ```
 assessment_1.html & assessment_1_style.css
@@ -63,7 +63,7 @@ box_model.html & box_model_style.css
 - Boxing content using IDs
 ```
 
-### Mini Project
+#### _Mini Project - Spectrum_
 
 ```
 spectrum.html & spectrum_style.css
@@ -72,15 +72,16 @@ spectrum.html & spectrum_style.css
 - Inspired by Spectrum V by Ellsworth Kelly
 ```
 
-## Capstone Project
+### **Project - External Folder**
 
-Basic styled landing page project. Check folder "Basic-Landing-Page":
+Basic styled landing page project.
 
 ```
-https://github.com/carlosmertens/Landing-Page
+- Check folder "Basic-Landing-Page":
+- https://github.com/carlosmertens/Landing-Page
 ```
 
-## Bootstrap
+### **Bootstrap Folder**
 
 Folder with scripts and project showing how to use Bootstrap 4
 
@@ -88,16 +89,16 @@ Folder with scripts and project showing how to use Bootstrap 4
 buttons.html, forms.html, navbars.html & grids.html
 ```
 
-### Project
+### **Project - External Folder**
+
+Basic website project for a coffee business
 
 ```
-Project: Coffee Lover
-
 - Check folder "Bootstrap-Coffee-Lover"
 - https://github.com/carlosmertens/Landing-Page
 ```
 
-## JS
+### **JS Folder**
 
 Folder with scripts, exercise and project showing basic JavaScript
 
@@ -106,8 +107,6 @@ basic_JS.html & basic_JS.js
 
 - Print message, create varibles and display console.log messages
 ```
-
-### Excersices
 
 ```
 exercise1.html & exercise1.js
@@ -128,15 +127,13 @@ loops.html & loops.js
 - Demostrate for loops (for, for/in and for/of)
 ```
 
-### Excersices
-
 ```
 exercise2.html & exercise2.js
 
 - Exercise loops with some quizes
 ```
 
-### Project
+#### _Project - Find The Spy_
 
 ```
 project_spy.html & project_spy.js
@@ -149,8 +146,6 @@ functions.html & functions.js
 
 - Demostrate basic functions
 ```
-
-### Excersices
 
 ```
 exercise_functions.html & exercise_functions.js
@@ -171,7 +166,7 @@ exercise_object.html & exercise_object.js
 - Exercises and quized to show objects methods
 ```
 
-## DOM
+### **DOM Folder**
 
 Folder with scripts, exercise and project showing basic Document Object Model (DOM)
 
@@ -193,15 +188,17 @@ event_listener.html and event_listener.js
 - Demostrate how to use Event Listener with DOM
 ```
 
-### Project: Tic Tac Toe Game
+#### _Project: Tic Tac Toe Game_
 
+```
 tic_tac_toe.html, tic_tac_toe_style.css and tic_tac_toe.js
 
 - Tic Tac Toe Game
 - Demostrate how to manipulate and interact using DOM
 - Simply select pick in the cells but does not declare winner
+```
 
-## jQuery
+### **jQuery Folder**
 
 Folder with scripts, exercise and project showing basic jQuery
 
@@ -211,9 +208,21 @@ basic_jQuery.html, basic_jQuery.js and content_jQuery.js
 - Basic jQuery demostration (action on click, double click, animations, etc)
 ```
 
-### Project: Connect 4 Game
+#### _Project: Connect 4 Game_
 
+```
 connect4_game.html, connect4_game.js
 
 - Connect Four Game Project
 - Demostrate heavely use of jQuery
+```
+
+## **Part 2: Back-End Development**
+
+### **Python-Beginner Folder**
+
+Folder with scripts, exercise and project showing beginning skils for Python: Numbers, Strings, Lists, Dictionaries, Tuples, Sets, Booleans, Control Flows, Functions
+
+```
+
+```
