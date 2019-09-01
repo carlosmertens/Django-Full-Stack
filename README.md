@@ -225,6 +225,21 @@ Folder with scripts, exercise and project showing beginning skils for Python: Nu
 
 ```
 number_Strings.py
+
 - Numbers: Integers and floats
 - Strings: Indexing, slicing, basic methods and string formatting
+```
+
+```
+lists.py
+
+- Create list, indexing, slicing, mutable items
+- Methods: len, append, extend, pop, reverse, sort
+- List Comprehension
+```
+
+```
+dictionaries.py
+
+- Create Dictionary, indexing, item mutable and add item
 ```
