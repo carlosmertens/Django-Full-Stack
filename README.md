@@ -243,3 +243,19 @@ dictionaries.py
 
 - Create Dictionary, indexing, item mutable and add item
 ```
+
+```
+tuples_sets.py
+
+- Create Tuples and Sets
+- Convert a Tuple to a Set
+```
+
+```
+exercise.py
+
+- Solve exercises:
+- Indexing and slicing Strings, Lists, Dictionaries
+- Convert a List to a Set
+- Print formatting
+```
