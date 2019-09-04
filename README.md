@@ -259,3 +259,21 @@ exercise.py
 - Convert a List to a Set
 - Print formatting
 ```
+
+```
+control_flow.py
+
+- If, elif and else
+- For Loops: Iterates list, dictionaries and tuples (Tuples Unpacking)
+- For and Range
+- While Loops
+- List Comprehension
+```
+
+```
+functions.py
+
+- Create function and ues arguments
+- Filter method
+- Lambda Expression
+```
