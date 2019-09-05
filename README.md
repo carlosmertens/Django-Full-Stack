@@ -271,9 +271,14 @@ control_flow.py
 ```
 
 ```
-functions.py
+functions.py and functions_exercise.py
 
-- Create function and ues arguments
+- Create function with/out arguments
 - Filter method
 - Lambda Expression
+- endswith() method
+```
+
+```
+
 ```
