@@ -279,7 +279,7 @@ functions.py and functions_exercise.py
 - endswith() method
 ```
 
-#### Project: Simple Guess Game
+#### _Project: Simple Guess Game_
 
 ```
 guess_game.py
@@ -297,4 +297,19 @@ Folder with scripts, exercise and project showing intermediate skils for Python:
 o1_scope.py
 
 - LEGB (Local, Enclosing Functions Locals, Global, Built-in) Rule
+```
+
+```
+02_object_oriented.py
+
+- OOP - Create Class with attributes, callable methods, change attributes methods
+- Inheritance and Special Methods
+```
+
+#### _Project: War Card Game_
+
+```
+war_game.py
+
+- Heavy use of Classes (Object Oriented Programming)
 ```
