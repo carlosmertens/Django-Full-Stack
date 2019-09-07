@@ -279,6 +279,22 @@ functions.py and functions_exercise.py
 - endswith() method
 ```
 
+#### Project: Simple Guess Game
+
+```
+guess_game.py
+
+- Simple game to guess computers's number
+- Use functions, while loops, for loops, enumerate
+- Import random library
 ```
 
+### Python-Intermediate Folder
+
+Folder with scripts, exercise and project showing intermediate skils for Python: Scope, Object Oriented Programming, Errors and Exceptions, Regular Expressions, Modules and Packages, Decorators and Name and Main
+
+```
+o1_scope.py
+
+- LEGB (Local, Enclosing Functions Locals, Global, Built-in) Rule
 ```
