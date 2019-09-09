@@ -306,6 +306,38 @@ o1_scope.py
 - Inheritance and Special Methods
 ```
 
+```
+03_errors_exceptions.py
+
+- Errors, Exceptions and Finally
+- Open, Write files
+```
+
+```
+04_regular_expressions.py
+
+- Regular Expressions: search, find, start, split
+```
+
+```
+05_module_packages.py and moduloPackges.py
+
+- Import function from another script
+```
+
+```
+06_decorators.py
+
+- Build up functions inside functions
+- Decorators
+```
+
+```
+07_name_main.py and nameMain.py
+
+- How to use name and main to import modules
+```
+
 #### _Project: War Card Game_
 
 ```
