@@ -1,4 +1,4 @@
 {
     "liveServer.settings.port": 5501,
-    "python.pythonPath": "/home/mertens/miniconda3/bin/python"
+    "python.pythonPath": "/home/mertens/miniconda3/envs/DjangoEnv/bin/python"
 }
