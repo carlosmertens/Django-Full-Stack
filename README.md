@@ -289,7 +289,7 @@ guess_game.py
 - Import random library
 ```
 
-### Python-Intermediate Folder
+### **Python-Intermediate Folder**
 
 Folder with scripts, exercise and project showing intermediate skils for Python: Scope, Object Oriented Programming, Errors and Exceptions, Regular Expressions, Modules and Packages, Decorators and Name and Main
 
@@ -344,4 +344,21 @@ o1_scope.py
 war_game.py
 
 - Heavy use of Classes (Object Oriented Programming)
+```
+
+### **Django Folder**
+
+#### _Project: first_project_
+
+```
+- Explore Django initiation projects and apps
+- Use HttpResponse()
+- Map urls route with own urls.py in the Django App (Modulate the Routing)
+```
+
+#### _Project: ProTwo_
+
+```
+- Practice sto initiate a project and an app
+- Practice to link apps in the project
 ```
