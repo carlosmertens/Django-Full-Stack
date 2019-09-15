@@ -351,9 +351,9 @@ war_game.py
 #### _Project: first_project_
 
 ```
-- Explore Django initiation projects and apps
-- Use HttpResponse()
+- Explore Django initiation projects and apps, use HttpResponse()
 - Map urls route with own urls.py in the Django App (Modulate the Routing)
+- Creat modulated templates, use render function to work with Django Templates Variables (Template Tags)
 ```
 
 #### _Project: ProTwo_
