@@ -354,6 +354,7 @@ war_game.py
 - Explore Django initiation projects and apps, use HttpResponse()
 - Map urls route with own urls.py in the Django App (Modulate the Routing)
 - Create modulated templates, use render function to work with Django Templates Variables (Template Tags)
+- Insert statuc files (images, css files) using template tags
 ```
 
 #### _Project: ProTwo_
