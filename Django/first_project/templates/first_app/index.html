@@ -1,15 +1,25 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>First App</title>
+    <!-- Link static css file with template tag -->
+    <link rel="stylesheet" href="{% static 'css/my_style.css' %}" />
   </head>
   <body>
-    <h1>Hello! This is index.html</h1>
+    <div>
+      <h1>Hello! This is index.html</h1>
+      <!-- Template tag or Django Template Variable -->
+      {{ insert_me }}
+    </div>
 
-    <!-- Template tag or Django Template Variable -->
-    {{ insert_me }}
+    <div>
+      <h2>Lets insert a static file (Image)!!</h2>
+      <!-- Insert a static image with template tag -->
+      <img src="{% static 'images/django1.jpeg' %}" alt="Django Image" />
+    </div>
   </body>
 </html>
