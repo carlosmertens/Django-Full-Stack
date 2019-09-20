@@ -355,6 +355,8 @@ war_game.py
 - Map urls route with own urls.py in the Django App (Modulate the Routing)
 - Create modulated templates, use render function to work with Django Templates Variables (Template Tags)
 - Insert statuc files (images, css files) using template tags
+- Create models, super user, open admin webpage
+- Use Faker to populate the models
 ```
 
 #### _Project: ProTwo_
