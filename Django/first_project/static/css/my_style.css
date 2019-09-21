@@ -1,7 +1,13 @@
 h1 {
-  color: red;
+  color: green;
 }
 
 h2 {
   color: blue;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
 }

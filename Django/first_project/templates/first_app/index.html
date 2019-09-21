@@ -5,21 +5,36 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>First App</title>
+    <title>Access Records</title>
     <!-- Link static css file with template tag -->
     <link rel="stylesheet" href="{% static 'css/my_style.css' %}" />
   </head>
   <body>
     <div>
-      <h1>Hello! This is index.html</h1>
-      <!-- Template tag or Django Template Variable -->
-      {{ insert_me }}
-    </div>
+      <h1>Welcome to Access Records</h1>
+      <h2>Table for latest access records</h2>
 
-    <div>
-      <h2>Lets insert a static file (Image)!!</h2>
-      <!-- Insert a static image with template tag -->
-      <img src="{% static 'images/django1.jpeg' %}" alt="Django Image" />
+      {% if access_records %}
+      <table>
+        <thead>
+          <th>Website Name</th>
+          <th>Date Accessed</th>
+        </thead>
+
+        {% for acc in access_records %}
+        <tr>
+          <td>{{ acc.name }}</td>
+          <td>{{ acc.date }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+
+      {% else %}
+      <p>No Access Records To Show</p>
+
+      {% endif %}
     </div>
+    <!-- Insert a static image with template tag -->
+    <img src="{% static 'images/django1.jpeg' %}" alt="Django Image" />
   </body>
 </html>
