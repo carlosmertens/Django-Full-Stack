@@ -357,6 +357,7 @@ war_game.py
 - Insert statuc files (images, css files) using template tags
 - Create models, super user, open admin webpage
 - Use Faker to populate the models
+- Models-Templates-Views Paradigm. Insert date to tables
 ```
 
 #### _Project: ProTwo_
