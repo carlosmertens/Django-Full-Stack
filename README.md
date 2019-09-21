@@ -363,7 +363,9 @@ war_game.py
 #### _Project: ProTwo_
 
 ```
-- Practice sto initiate a project and an app
+- Practice to initiate a project and an app
 - Practice to link apps in the project
 - Practice to modulate the urls, create template tags
+- Practice to migrate app, create admin
+- Practice to insert data with template tags
 ```
