@@ -4,9 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Application appTwo</title>
+    <title>Users Page | appTwo</title>
   </head>
   <body>
-    <h2>Users Page</h2>
+    <h1>USERS PAGE</h1>
+
+    {% if users %}
+    <ol>
+      {% for person in users %}
+      <li>User Information</li>
+      <ul>
+        <li>First Name: {{ person.first_name }}</li>
+        <li>Last Name: {{ person.last_name }}</li>
+        <li>Email: {{ person.email }}</li>
+      </ul>
+      {% endfor %}
+    </ol>
+    {% endif %}
   </body>
 </html>
