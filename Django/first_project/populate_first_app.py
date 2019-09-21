@@ -28,7 +28,7 @@ def populate(N=5):
     Create N Entries of Dates Accessed
     '''
 
-    for entry in range(N):
+    for _ in range(N):
 
         # Get Topic for Entry
         top = add_topic()
