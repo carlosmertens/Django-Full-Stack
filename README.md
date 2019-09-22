@@ -368,6 +368,7 @@ war_game.py
 - Practice to modulate the urls, create template tags
 - Practice to migrate app, create admin
 - Practice to insert data with template tags
+- Convert ProTwo Project into a sign up page
 ```
 
 #### _Project: BasicForms_
