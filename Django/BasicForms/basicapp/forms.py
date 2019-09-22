@@ -1,13 +1,20 @@
 from django import forms
 from django.core import validators
 
+# Create Manually a name validator. Start with capital letter
+
+
+def check_for_z(value):
+    if value[0] not in 'QWERTZUIOPLKJHGFDSAYXCVBNM':
+        raise forms.ValidationError("Name needs to start with capital letter!")
+
 
 class FormName(forms.Form):
-    name = forms.CharField()
+    name = forms.CharField(validators=[check_for_z])
     email = forms.EmailField()
     text = forms.CharField(widget=forms.Textarea)
 
-    # CREATE A BOT CATCHER MANUALLY
+    # #Create manually a bot catcher
     # botcatcher = forms.CharField(required=False, widget=forms.HiddenInput)
 
     # def clean_botcatcher(self):
