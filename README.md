@@ -369,3 +369,11 @@ war_game.py
 - Practice to migrate app, create admin
 - Practice to insert data with template tags
 ```
+
+#### _Project: BasicForms_
+
+```
+- Initiate project and an app
+- Create Django Forms
+- Create bot catchers, validate name, email and text
+```
