@@ -378,3 +378,10 @@ war_game.py
 - Create Django Forms
 - Create bot catchers, validate name, email and text
 ```
+
+#### _learningTemplates_
+
+```
+- Create project and an app
+- Link pages with Relative URL Templates
+```
